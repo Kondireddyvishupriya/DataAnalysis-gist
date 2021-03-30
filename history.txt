@@ -1,0 +1,209 @@
+    1  pwd
+    2  ls
+    3  touch
+    4  touch demo.txt
+    5  ls
+    6  touch file{1....10}.txt
+    7  ls
+    8  touch file{1..10}.txt
+    9  ls
+   10  cd ..
+   11  pwd
+   12  cd GIST
+   13  cd GIST_SARVANI/
+   14  pwd
+   15  cd d:
+   16  cd c:
+   17  pwd
+   18  mkdir GIST_SARVANI
+   19  rm demo.txt
+   20  cd c:/Users/dell/Desktop/GIST_SARVANI
+   21  demo.txt
+   22  rm demo.txt
+   23  echo hello
+   24  touch hello.txt
+   25  ls
+   26  echo "Hello"
+   27  echo "Hello">>hello.txt
+   28  cat hello.txt
+   29  echo {1..100}
+   30  echo {1..100}>>hello.txt
+   31  cat hello.txt
+   32  rm *.txt
+   33  touch file1.txt
+   34  touch file2.txt
+   35  cat file1.txt>>file2.txt
+   36  cat file2.txt>>file1.txt
+   37  git init
+   38  git status
+   39  git status -s
+   40  toch example.py
+   41  touch example.py
+   42  git status -s
+   43  git add
+   44  git add.
+   45  git add .
+   46  git status -s
+   47  git commit -m 'write markdown statements'
+   48  git log
+   49  git add remote origin 'https://github.com/sarvani85/gist.git'
+   50  git remote add origin 'https://github.com/sarvani85/gist.git'
+   51  git push origin master
+   52  git push origin main
+   53  $ git push origin main
+   54  git bush origin main
+   55  git push origin main
+   56  git config --global user.name 'sarvani585'
+   57  git config --global user.email 'sarvanikilli585@gmail.com'
+   58  git status -s
+   59  git commit -m 'write markdown statements'
+   60  git remote add origin 'https://github.com/sarvani85/gist.git'
+   61  git push origin main
+   62  ls
+   63  ls
+   64  git add .
+   65  git commit -m "write markdown statements'
+   66  clear
+   67  git init
+   68  git clone 'gist.git'
+   69  git clone 'https://github.com/sarvani85/gist.git'
+   70  ls
+   71  cd gist/
+   72  ls
+   73  vi README.md 
+   74  cat gist
+   75  cat gist.git
+   76  cat README.md
+   77  vi README.md
+   78  git config --global user.name '
+   79  ***
+   80  pwd
+   81  git add .
+   82  ls
+   83  git status -s
+   84  git remote add origin 'https://github.com/sarvani85/gist.git'
+   85  git push origin main
+   86  git add .
+   87  git commit -m 'write markdown statements'
+   88  remote add origin 'https://github.com/sarvani85/gist.git'
+   89  remote add origin 'https://github.com/sarvani85/gist.git'
+   90  push origin main
+   91  git remote add origin 'https://github.com/sarvani85/gist.git'
+   92  git push origin main
+   93  # To highlight particular lines
+   94  - here writing python program
+   95  ```python
+   96  a=int(input('enter a number')
+   97  if a%2==0:
+   98        print('a is even number')
+   99  else:
+  100        print('a is odd number')
+  101  ```# To highlight particular lines
+  102  - here writing python program
+  103  ```python
+  104  a=int(input('enter a number')
+  105  if a%2==0:
+  106        print('a is even number')
+  107  else:
+  108        print('a is odd number')
+  109  mkdir sravani
+  110  touch profile.txt
+  111  ls
+  112  mkdir sravani
+  113  cd sravani
+  114  touch profile.txt
+  115  ls
+  116  vi profile.txt
+  117  cat profile.txt
+  118  touch sample.html
+  119  ls
+  120  vi sample.html
+  121  git init
+  122  git status _s
+  123  git commit -m 'write some files'
+  124  git remote add origin 'https://github.com/sarvani85/gist.git' 
+  125  git push origin main
+  126  git status -s
+  127  git commit -m 'write some files'
+  128  git add .
+  129  git commit -m 'write some files'
+  130  git remote add origin 'https://github.com/sarvani85/gist.git'
+  131  git push origin main
+  132  git init
+  133  git status -s
+  134  git add .
+  135  git commit -m 'write some files'
+  136  git remote add origin 'https://github.com/sarvani85/gist.git'
+  137  git push origin main
+  138  git init
+  139  git status -s
+  140  git add .
+  141  git status -s
+  142  git commit -m 'dat_5'
+  143  git remote add origin 'https://github.com/sarvani85/gist.git'
+  144  git push origin main
+  145  pwd
+  146  ls
+  147  touch demo.txt
+  148  ls
+  149  mkdir GIST
+  150  LS
+  151  cd GIST
+  152  pwd
+  153  cd..
+  154  cd ..
+  155  pwd
+  156  cd e:
+  157  pwd
+  158  cd d:
+  159  pwd
+  160  cd c:
+  161  cd /c/Users/dell/Desktop/vishnupriya-172U1A0495
+  162  pwd
+  163  cd /c/Users/dell/Desktop/vishnupriya-172U1A0495
+  164  pwd
+  165  echo(1 ..100)
+  166  echo {1..100}
+  167  echo {1..1000}
+  168  touch file{1..100}.txt
+  169  touch python{20..50}.py
+  170  touch clanguage{50..70}.cpp
+  171  LS
+  172  mkdir GIST
+  173  RMDIR GIST
+  174  rmdir gist
+  175  ls
+  176  rm demo.txt
+  177  ls
+  178  rm file{1..10}.txt
+  179  ls
+  180  rm file{50..100}.txt
+  181  ls
+  182  rm clanguage{50..100
+  183  rm clanguage{1..100}.cpp
+  184  ls
+  185  rm*.txt
+  186  rm *.txt
+  187  ls
+  188  rm *.py
+  189  ls
+  190  nano myfile.txt
+  191  cat myfile.txt
+  192  nano myfile.txt
+  193  cat myfile.txt
+  194  nano myfile.txt
+  195  echo "Hello">>myfile2.txt
+  196  cat myfile2.txt
+  197  \echo {1..1000}>>myfile3.txt
+  198  cat myfile3.txt
+  199  mv myfile3.txt myfile2.txt
+  200  cat myfile2.txt
+  201  ls
+  202  cp myfile2.txt myfile.txt
+  203  ls
+  204  cat myfile.txt
+  205  ls
+  206   cp myfile.txt myfile2.txt
+  207  cat myfile2.txt
+  208  history
+  209  history>>history.txt
